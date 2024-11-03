@@ -12,6 +12,7 @@ like F# you can use another language without GDExtension!
 3. open VisualStudio, add a new VisualBasicProject to projectmap (select in the same directory, select .NET 6.0)
 4. in the first project add the VisualBasicProject as reference
 5. in the VisualBasicProject add in the references to the packets the packet GodotSharp
+6. create in your VisualBasicClass methods for _Ready and so on and start them from the C#-methods - now you can continue in VisualBasic...    
      
   
 # Last changes:    
