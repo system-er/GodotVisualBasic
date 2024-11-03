@@ -1,6 +1,6 @@
 # GodotVisualBasic    
 VisualBasic through C# for Godot4.   
-i found several examples for F# through C# but not for VisualStudio (searched with google and in the forum)    
+i found several examples for F# through C# but not for VisualBasic (searched with google and in the forum)    
 So i tried to get it to work, heres the first test.     
 like F# you can use another language without GDExtension!    
 
