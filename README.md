@@ -20,6 +20,8 @@ like F# you can use another language without GDExtension!
 
   
 # Last changes:    
-- Added first example 2D, Sprite2D, comparable to the GDExtension-demo    
+- Added first example 2D, Sprite2D, comparable to the GDExtension-demo
+- Added a constructor in VisualBasic class
+  
 
   
