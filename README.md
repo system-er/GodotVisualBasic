@@ -13,8 +13,13 @@ like F# you can use another language without GDExtension!
 4. in the first project add the VisualBasicProject as reference
 5. in the VisualBasicProject add in the references to the packets the packet GodotSharp
 6. create in your VisualBasicClass methods for _Ready and so on and start them from the C#-methods - now you can continue in VisualBasic...    
-     
+
+
+# Examples:   
+- 2D, Sprite2D, comparable to the GDExtension-demo, https://github.com/system-er/GodotVisualBasic_example_2D_Sprite2D
+
   
 # Last changes:    
+- Added first example 2D, Sprite2D, comparable to the GDExtension-demo    
 
   
