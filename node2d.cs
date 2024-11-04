@@ -5,13 +5,13 @@ using vblibrary;
 
 public partial class node2d : Node2D
 {
-	Class1 vbclass;
+    GodotVisualBasic vbclass;
 
     // Called when the node enters the scene tree for the first time.
     public override void _Ready()
 	{
         GD.Print("hello world from csharp");
-        vbclass = new Class1(this);
+        vbclass = new GodotVisualBasic(this);
         vbclass._Ready();
 	}
 
