@@ -4,6 +4,8 @@ i found several examples for F# through C# but not for VisualBasic (searched wit
 So i tried to get it to work, heres the first test.     
 like F# you can use another language without GDExtension!    
 
+i made a benchmark and the result is that Visual Basic is 30times faster than gdscript (see example benchmark)    
+
 
 # HowTo:    
 0. use this exampleproject for start or:    
@@ -17,6 +19,7 @@ like F# you can use another language without GDExtension!
 
 # Examples:   
 - 2D, Sprite2D, comparable to the GDExtension-demo, https://github.com/system-er/GodotVisualBasic_example_2D_Sprite2D
+- 2D, Draw, benchmark drawing mandelbrot, https://github.com/system-er/GodotVisualBasic_example_benchmark_mandelbrot     
 
   
 # Last changes:    
