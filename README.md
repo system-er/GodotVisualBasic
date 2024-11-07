@@ -28,6 +28,8 @@ i made a benchmark and the result is that Visual Basic is 30times faster than gd
 - Added first example 2D, Sprite2D, comparable to the GDExtension-demo
 - Added a constructor in VisualBasic class
 - Added second example 2D, Draw, benchmark drawing mandelbrot
+- Added third example 3D, falling boxes
+  
   
   
 
