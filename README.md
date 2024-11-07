@@ -20,7 +20,7 @@ i made a benchmark and the result is that Visual Basic is 30times faster than gd
 # Examples:   
 - 2D, Sprite2D, comparable to the GDExtension-demo, https://github.com/system-er/GodotVisualBasic_example_2D_Sprite2D
 - 2D, Draw, benchmark drawing mandelbrot, https://github.com/system-er/GodotVisualBasic_example_benchmark_mandelbrot
-- 3D, RigitBody3D, falling boxes, https://github.com/system-er/GodotVisualBasic_example_3D_fallingboxes
+- 3D, RigidBody3D, falling boxes, https://github.com/system-er/GodotVisualBasic_example_3D_fallingboxes
     
 
   
