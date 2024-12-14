@@ -4,7 +4,7 @@ i found several examples for F# through C# but not for VisualBasic (searched wit
 So i tried to get it to work, heres the first test.     
 like F# you can use another language without GDExtension!    
 
-i made a benchmark and the result is that Visual Basic is 30times faster than gdscript (see example benchmark)    
+i made a benchmark and the result is that Visual Basic is 30times faster than gdscript in the mandelbrotbenchmark (see example benchmark)    
 
 
 # HowTo:    
