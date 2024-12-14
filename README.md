@@ -1,7 +1,6 @@
 # GodotVisualBasic    
 VisualBasic through C# for Godot4 (tested with Godot4.3 mono win64).   
-i found several examples for F# through C# but not for VisualBasic (searched with google and in the forum)    
-So i tried to get it to work, heres the first test.     
+i found several examples for F# through C# but not for VisualBasic.            
 like F# you can use another language without GDExtension!    
 
 i made a benchmark and the result is that Visual Basic is 30times faster than gdscript in the mandelbrotbenchmark (see example benchmark)    
